@@ -1,0 +1,2 @@
+file 'IMG_20230925_073437 (1).png'
+duration 1

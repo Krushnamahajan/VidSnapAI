@@ -1,0 +1,6 @@
+file 'download (1).png'
+duration 1
+file 'facebook.svg'
+duration 1
+file 'github.svg'
+duration 1
